@@ -1,0 +1,10 @@
+D:\HocWebAPI\FineBlog\FineBlog\obj\Debug\net6.0\FineBlog.csproj.AssemblyReference.cache
+D:\HocWebAPI\FineBlog\FineBlog\obj\Debug\net6.0\FineBlog.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocWebAPI\FineBlog\FineBlog\obj\Debug\net6.0\FineBlog.AssemblyInfoInputs.cache
+D:\HocWebAPI\FineBlog\FineBlog\obj\Debug\net6.0\FineBlog.AssemblyInfo.cs
+D:\HocWebAPI\FineBlog\FineBlog\obj\Debug\net6.0\FineBlog.csproj.CoreCompileInputs.cache
+D:\HocWebAPI\FineBlog\FineBlog\obj\Debug\net6.0\FineBlog.MvcApplicationPartsAssemblyInfo.cs
+D:\HocWebAPI\FineBlog\FineBlog\obj\Debug\net6.0\FineBlog.MvcApplicationPartsAssemblyInfo.cache
+D:\HocWebAPI\FineBlog\FineBlog\obj\Debug\net6.0\FineBlog.RazorAssemblyInfo.cache
+D:\HocWebAPI\FineBlog\FineBlog\obj\Debug\net6.0\FineBlog.RazorAssemblyInfo.cs
+D:\HocWebAPI\FineBlog\FineBlog\obj\Debug\net6.0\FineBlog.sourcelink.json
